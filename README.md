@@ -10,3 +10,19 @@
  * **Grade Assignment:** Assigns a grade based on the average percentage achieved.
    
  * **Results Display:** Displays total marks, average percentage, and the corresponding grade to the user.
+
+# Usage
+
+* **Clone the repository:**
+
+* **Open the project in NetBeans IDE 20.**
+  
+    git clone https://github.com/your-username/StudentGradeCalculator.git
+
+* **Run the program.**
+
+* **Enter the number of subjects and the marks for each subject when prompted.**
+
+* **View the results, including total marks, average percentage, and the assigned grade.**
+
+
