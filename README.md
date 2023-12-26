@@ -17,7 +17,7 @@
 
 * **Open the project in NetBeans IDE 20.**
   
-    git clone https://github.com/your-username/StudentGradeCalculator.git
+       git clone https://github.com/your-username/StudentGradeCalculator.git
 
 * **Run the program.**
 
